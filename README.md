@@ -46,5 +46,7 @@ This Power BI dashboard was developed as a collaborative project by **Naveen** a
 This project was created to practice and demonstrate our Power BI skills and our ability to analyze and visualize real-world data effectively. It provides value for data enthusiasts, analysts, and anyone interested in the film industry.
 
 ---
+![image](https://github.com/user-attachments/assets/878946f7-c9a4-4956-a18f-844c53afc16c)
+
 
 ✅ **Built with 💡 by Naveen and Krisha**
